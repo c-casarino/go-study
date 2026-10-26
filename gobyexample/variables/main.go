@@ -15,4 +15,7 @@ func main() {
 
 	var e int      // Default: 0
 	fmt.Println(e) // Output: 0 --> because zero is the default value of int
+
+	f := "apple"
+	fmt.Println(f)
 }
