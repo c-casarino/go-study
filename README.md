@@ -1,4 +1,5 @@
 # Go-Study
-by c-casarino
 
-(i need to update README)
+_by c-casarino_
+
+(i need to update README.md)
